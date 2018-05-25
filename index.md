@@ -1,5 +1,6 @@
-## Welcome to ABCDEFG
+# 你好呀
 
+## Welcome to ABCDEFG
 
 测试中文
 
@@ -8,9 +9,9 @@ You can use the [editor on GitHub](https://github.com/llu198608/everyday/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 第一篇
+`有没有有趣的事情`
+这是一个尝试
 
 ```markdown
 Syntax highlighted code block
